@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KalkulatorMedic</string>
+    <string name="tip_amount">Iznos napojnice: %s</string>
+    <string name="chooseMessage">Odaberite napojnicu:</string>
+    <string name="optionOne">10%</string>
+    <string name="optionTwo">7%</string>
+    <string name="optionThree">5%</string>
+    <string name="roundedTipQuestion">Zaokružite napojnicu?</string>
+    <string name="calculateTip">Izračunaj</string>
+    <string name="tipAmount">Iznos najpojnice</string>
+    <string name="hint">Račun za uslugu</string>
+    <string name="font">Font</string>
+</resources>

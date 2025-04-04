@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KalkulatorMedic</string>
+    <string name="tip_amount">Importo della mancia: %s</string>
+    <string name="chooseMessage">Scegli un suggerimento:</string>
+    <string name="optionOne">10%</string>
+    <string name="optionTwo">7%</string>
+    <string name="optionThree">5%</string>
+    <string name="roundedTipQuestion">Arrotondare la mancia?</string>
+    <string name="calculateTip">Calcolare</string>
+    <string name="tipAmount">Importo della mancia</string>
+    <string name="hint">Fattura per il servizio</string>
+    <string name="font">Font</string>
+</resources>
